@@ -4,25 +4,25 @@ The focus of the internship was on grayscale image colorization using deep learn
 
 ## 📂 Repository Structure
 - **TASK_1_Colorization_Visualization/**
-  - `model.ipynb` → Visualizes intermediate stages of the colorization process  
+  - `TASK_1.ipynb` → Visualizes intermediate stages of the colorization process  
   - `requirement.txt`  
 
 - **TASK_2_Dataset_Augmentation/**
-  - `model.ipynb` → Uses data augmentation (rotation, flipping, brightness changes) to improve colorization  
+  - `TASK_2.ipynb` → Uses data augmentation (rotation, flipping, brightness changes) to improve colorization  
   - `requirement.txt`  
 
 - **TASK_3_Semantic_Segmentation_Colorization/**
-  - `model.ipynb` → Targeted colorization of foreground or background using DeepLabV3 segmentation  
+  - `TASK_3.ipynb` → Targeted colorization of foreground or background using DeepLabV3 segmentation  
   - `requirement.txt`  
   - `images/` → Sample test images  
 
 - **TASK_4_Historical_Colorization/**
-  - `model.ipynb` → Time-based historical image colorization (e.g., 1900s vs 1950s palette)  
+  - `TASK_4.ipynb` → Time-based historical image colorization (e.g., 1900s vs 1950s palette)  
   - `requirement.txt`  
   - `images/` → Sample test images  
 
 - **TASK_5_RealTime_Colorization/**
-  - `model.ipynb` → Real-time multi-object colorization with semantic segmentation on video streams  
+  - `TASK_5.ipynb` → Real-time multi-object colorization with semantic segmentation on video streams  
   - `requirements.txt`  
 
 - **Internship_Report.pdf** → Final internship report  
